@@ -1,14 +1,14 @@
 {
   "s": {
     "trafficjams": {
-      "count": 10,
-      "km": 20,
-      "min": 30
+      "count": 69,
+      "km": 69,
+      "min": 69
     },
     "speedtraps": {
       "count": 10
     },
-    "trafficIntensity": { "percentage": 30 }
+    "trafficIntensity": { "percentage": 60 }
   },
   "f": [
     [
